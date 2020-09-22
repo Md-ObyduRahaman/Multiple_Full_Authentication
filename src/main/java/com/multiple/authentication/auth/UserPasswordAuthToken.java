@@ -15,7 +15,6 @@ public class UserPasswordAuthToken extends UsernamePasswordAuthenticationToken {
 
 	public UserPasswordAuthToken(Object principal, Object credentials) {
 		super(principal, credentials);
-		// TODO Auto-generated constructor stub
 	}
 
 }
